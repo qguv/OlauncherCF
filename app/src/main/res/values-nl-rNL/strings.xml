@@ -74,7 +74,7 @@
     <string name="open_app">App openen</string>
     <string name="lock_screen">Scherm vergrendelen</string>
     <string name="open_quick_settings">Snelinstellingen</string>
-    <string name="show_recents">Ontlangs gebruikte apps tonen</string>
+    <string name="show_recents">Onlangs gebruikte apps tonen</string>
     <string name="backup">Backup</string>
     <string name="load_backup">Backup hervatten</string>
     <string name="store_backup">Backup maken</string>
